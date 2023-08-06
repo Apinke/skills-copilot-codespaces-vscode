@@ -1,0 +1,1 @@
+function calculate Num (var1,var2)
